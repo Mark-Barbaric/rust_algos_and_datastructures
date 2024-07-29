@@ -1,0 +1,2 @@
+[workspace]
+members = ["algos_and_datastructures"]
